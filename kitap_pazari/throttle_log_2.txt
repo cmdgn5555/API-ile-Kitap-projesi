@@ -1,0 +1,95 @@
+2025-01-12 17:51:09.295463: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:10.084275: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:10.842338: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:11.564047: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:12.221352: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:13.741529: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:14.356808: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:14.919883: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:15.460326: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:15.970741: Kullanıcı Anonim isteği başarılı
+2025-01-12 17:51:16.526807: Kullanıcı Anonim hız sınırını aştı
+2025-01-12 17:58:30.473957: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:31.102291: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:31.679706: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:32.259434: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:32.808441: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:33.356453: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:33.921338: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:34.464143: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:35.013151: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:35.551911: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 17:58:36.067028: Kullanıcı Anonim hız sınırını aştı
+
+2025-01-12 17:59:07.507805: Kullanıcı Anonim hız sınırını aştı
+
+2025-01-12 17:59:10.681957: Kullanıcı Anonim hız sınırını aştı
+
+2025-01-12 17:59:53.434249: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:00:40.282717: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:06.989668: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:07.655499: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:08.333359: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:09.001198: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:09.740772: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:10.558015: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:11.265219: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:12.046943: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:12.836879: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:01:13.785002: Kullanıcı Anonim hız sınırını aştı
+
+2025-01-12 18:02:27.130026: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:02:30.971964: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:02:36.274445: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:13.473266: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:16.740104: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:20.178983: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:23.942206: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:27.750411: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:31.662126: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:35.545506: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:39.576264: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:43.925421: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:48.352707: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:04:52.001453: Kullanıcı Anonim hız sınırını aştı
+
+2025-01-12 18:27:15.550428: Kullan�c� Anonim iste�i ba�ar�l�
+
+2025-01-12 18:27:36.130615: Kullanıcı Anonim isteği başarılı
+
+2025-01-12 18:36:20.562886: Kullanıcı Anonim isteği başarılı
+
